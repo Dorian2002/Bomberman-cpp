@@ -50,11 +50,11 @@ Le Bomberman est un jeu 2D en vue du dessus. L'objectif du joueur est simple, s'
 
 ## Ouvrir le projet :
 
-- Installez git sur son ordinateur => ![Installer git](https://git-scm.com/downloads)
+- Installez git sur son ordinateur => ![https://git-scm.com/downloads](https://git-scm.com/downloads)
 
-- Installez vcpkg sur votre ordinateur => ![Installer vcpkg](https://vcpkg.io/en/getting-started.html)
+- Installez vcpkg sur votre ordinateur => ![https://vcpkg.io/en/getting-started.html](https://vcpkg.io/en/getting-started.html)
 
-- Installez Visual Studio 2022 sur votre ordinateur => ![Installer Visual Studio 2022](https://visualstudio.microsoft.com/fr/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false)
+- Installez Visual Studio 2022 sur votre ordinateur => ![https://visualstudio.microsoft.com/fr/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false](https://visualstudio.microsoft.com/fr/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false)
 
 - Clonez ce repository git sur votre ordinateur en tappant cette commande dans un terminal :
 
