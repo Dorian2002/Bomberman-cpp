@@ -59,12 +59,12 @@ Le Bomberman est un jeu 2D en vue du dessus. L'objectif du joueur est simple, s'
 - Clonez ce repository git sur votre ordinateur en tappant cette commande dans un terminal :
 
 ```
-https://github.com/Dorian2002/Bomberman-cpp.git
+git clone https://github.com/Dorian2002/Bomberman-cpp.git
 ```
 
-- Ouvrez le .sln du projet avec Visual Studio 2022, cliquez en haut sur Projet, puis dans propriétés de configuration cliquez sur vcpkg et enfin dans general en haut au milieu, changez ```Use Vcpkg Manifest``` à ```Oui```.
+- Ouvrez le .sln du projet avec Visual Studio 2022, cliquez en haut sur l'onglet Projet, puis dans propriétés de configuration cliquez sur vcpkg et enfin dans general en haut au milieu, changez ```Use Vcpkg Manifest``` à ```Oui```.
 
-- Dans l'explorateur de solution, faites clique-droit sur la solution et ```Générer la solution```.
+- Dans l'explorateur de solution, faites clique-droit sur la solution et cliquez sur ```Générer la solution```.
 
 - Cliquez sur la flèche verte pleine juste sous la barre d'outils.
 
