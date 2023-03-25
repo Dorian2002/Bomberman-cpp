@@ -1,4 +1,75 @@
-# Bomberman-cpp :
+# Bomberman-cpp : english (French version below)
+
+## Contents :
+
+- Project presentation
+- Keys and gameplay
+- Open project
+
+![](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8df5a5165721189.640c363fc4078.png)
+
+## Project presentation :
+
+I developed, in a team of 4 people, a Bomberman like game in C++ with the SFML graphic library. This project was realized for a course of my third year of graduate school.
+
+Bomberman is a 2D top-down game. The player's objective is simple, to escape, and to do this he must break the bricks on the map with bombs and find the exit hatch. He must also be careful not to be attacked by the monsters around him.
+
+![](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c53876165721189.640c363f80535.png)
+
+![](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/961729165721189.640c363f7f149.png)
+
+## Keys and gameplay :
+
+### Movements :
+
+  - Forward : **Z**
+  - Backward : **S**
+  - Left : **Q**
+  - Right : **D**
+
+### Bombs:
+  - Drop a bomb : **E**
+  - Explosion : Bombs will autaumatically explode 3 seconds after being dropped.
+
+### Bonuses :
+
+- You can increase your speed by walking on bonuses, represented by winged shoes.
+
+### Break walls :
+
+- You can destroy brick walls by dropping a bomb right next to it.
+
+### Enemies : 
+
+- Enemies are walking all around the the map without seeking to attack, but you'll die if they walk on you.
+
+### Escape :
+
+- A hatch is hiding womewhere under a brick wall, you have to find and walk on it to escape.
+
+## Open project :
+
+- Install git => ![https://git-scm.com/downloads](https://git-scm.com/downloads)
+
+- Install vcpkg => ![https://vcpkg.io/en/getting-started.html](https://vcpkg.io/en/getting-started.html)
+
+- Install Visual Studio 2022 => ![https://visualstudio.microsoft.com/fr/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false](https://visualstudio.microsoft.com/fr/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false)
+
+- Clone this repository by typing and running this command on a terminal :
+```
+git clone https://github.com/Dorian2002/Bomberman-cpp.git
+```
+
+- Open the .sln file in project with Visual Studio 2022, click on Projet tab at the top, then in the configuration properties click on vcpkg et finally in general at the middle and top, change ```Use Vcpkg Manifest``` to ```Yes```.
+
+- In the solution explorer, right-click on the solution and then ```Generate the solution```.
+
+- Click on the solid green arrow just below the toolbar.
+
+- The game is running, have fun !
+
+
+# Bomberman-cpp : français
 
 ## Sommaire :
 
